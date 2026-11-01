@@ -1,7 +1,7 @@
 # SoundPeak — Volume Booster & Audio Enhancer
 
 <p align="center">
-  <img src="assets/soundpeak-banner.png" alt="SoundPeak — Volume Booster & Audio Enhancer" width="100%">
+  <img src="soundpeak-banner.png" alt="SoundPeak — Volume Booster & Audio Enhancer" width="100%">
 </p>
 
 A Chrome extension that boosts audio and video volume beyond the normal 100% limit — **up to 600%**.
